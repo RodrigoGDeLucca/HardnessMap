@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
 import matplotlib as mpl
 import warnings
-warnings.filterwarnings(‘ignore’)
+warnings.filterwarnings('ignore')
 
 mpl.rcParams['figure.dpi'] = 600
 
