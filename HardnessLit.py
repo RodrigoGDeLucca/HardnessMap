@@ -5,6 +5,9 @@ import io
 import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
 import matplotlib as mpl
+import warnings
+warnings.filterwarnings(‘ignore’)
+
 mpl.rcParams['figure.dpi'] = 600
 
 #https://discuss.streamlit.io/t/refresh-graph-datatable-inside-loop/7804
